@@ -1,9 +1,9 @@
 
 
 <h2>SIMPLE QUOTES APP BUILD WITH WITH REACT HOOKS (USEEFFECTS)</h2>
-To get started and run the app:
-<p>TECH USED (REACT JS,BOOTSTRAP,CSS,JS,HTML)</p>
 
+<p>TECH USED (REACT JS,BOOTSTRAP,CSS,JS,HTML)</p>
+To get started and run the app:
 Clone the project.
 
 Run <code>npm install</code> to install the corresponding node packages
