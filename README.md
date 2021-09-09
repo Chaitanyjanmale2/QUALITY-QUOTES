@@ -4,7 +4,7 @@
 
 <p>TECH USED (REACT JS,BOOTSTRAP,CSS,JS,HTML)</p>
 <hr color="red"></hr>
-<p>user get to the project site <code>=></code> site fetch the quote and background image  (from api ) <code>=></code> user click the "button" on site so both back grpund image and quote changes at a time</p>
+<p>user get to the project site <code>=></code> site fetch the quote and background image  (from api ) <code>=></code> user click the "button" on site so both back ground image and quote changes at a time</p>
 To get started and run the app:
 Clone the project.
 
